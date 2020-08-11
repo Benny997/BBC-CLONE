@@ -1,0 +1,28 @@
+#topbar {
+  width: 100%;
+  margin: 0 auto;
+  height:40px ;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+img{
+  height: 26px;
+  width: 90px;
+  margin-top: 6px;
+  margin-left: 74px;
+  margin-right: 8px;
+  float: left;
+}
+.topbar-section{
+  float: left;
+  border-left: 1px grey solid ;
+  height: 100%;
+}
+#sign-image {
+  height: 20px;
+  width: 30px;
+  margin-right: -30px;
+}

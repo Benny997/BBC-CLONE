@@ -1,0 +1,21 @@
+h1{
+  color: blue;
+
+
+}
+
+div{
+  background-color: red;
+  height: 90px;
+  width: 100vw;
+}
+ul{
+  float: right;
+}
+li{
+display: inline;
+text-decoration: none;
+}
+a{
+  text-decoration: none;
+}
